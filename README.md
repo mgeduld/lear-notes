@@ -98,6 +98,14 @@ These are ideas from various stages of pre-production. Many of them were snatche
 
 ## Oswald
 
+## Albany
+
+## Cornwall
+
+## France
+
+## Burgundy
+
 ## Sources
 
 - (PL) *Playing Lear* by Oliver Ford Davies
