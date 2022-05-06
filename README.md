@@ -15,6 +15,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Verse gets more irregular as the play progresses
 - The play is "a fight towards love" -- Jonathan Kent. 
 - "Lear moves from transactional relatedness, through madness into compassionate love for the daughter who returns his devotion." -- Gail MP
+- Five characters in the play have everything taken away from them and must start over from scratch: Lear, Cordelia, Gloucester, Edgar, and Kent. (And the Fool?)
 
 ## Lear
 - King vs Old Man
@@ -72,13 +73,25 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - The Glouchester-blinding scene is a torture scene, and Gloucester holds to give Lear time to get away!
 - Gloucester may be more shaken by Lear's actions than by anything before in his life (as must the others). Lear turns everyone's world entirely upsidedown. This may help explain Gloucester's actions--his quick mistrust of Edgar. 
 - Lear, without questioning his own rightness, imposes his will on others; Gloucester accepts the will of others , without effectively questioning their rightness -- Heilman
+- If Edgar is "in the court but not interested in the court (see Edgar, below), he and Gloucester may have not had much of a relationship. So they have to forge one in the play. Perhaps they don't have a previous relationship that's fallen apart. What the force in the play is their *first* relationship. Whereas Edmund is a courtier (look at how he knows all the rules of politce address in 1.i!) Maybe Gloucester projects himself and his hopes onto Edmund. He brings Edmund to court but not Edgar.
+- When Lear abocates, Gloucester's position in court is in jeopardy. Which may be what he's worrying about in the beginning of I.i. Who is more in favor, Albany or Cornwall? 
+- First half: Gloucester's fall from grace. 
+- Are Gloucester's other senses heightened after being blinded? 
+- Should he do second half with eyes closed/really-blindfolded, so he must be led by others? 
 
 ## Edgar
 - Edgar's world is then turned upside-down. What if Poor Tom is 1/2 disguise act and 1/2 panic and grief for the loss of his father.) 
+- You have to find things that connect the Edgar bits with the Poor Tom bits. One key: Edgar is Lear's godson. Learn named him. But he's not in the first scene. He may have little interest in politics and be naive about it. 
 
 ## Edmund
 - Discarding all love, Edmund is able to release himself from any internalized guilt that would place restraints on his actions and motivate reparations and responsibility" -- from Gail McCracken Price's program note (PL)
 - Edmund may get an idea from Lear's response to Cordelia. 
+- Edmund's language in the first part of the play, with Gloucester and others, is very subservant. 
+- Edmund has been away from court for nine years.
+- "Boogeyman" documentary (about Edmund-like character in pres Bush's inner circle) might be good research/inspiration
+- Edmund has a recognition in the casement/letter scene: "Hey, I'm good at this!"
+- Edmund's ambition: he's his father's son. 
+- Edmund gets himself into a mess by the end -- with the sisters, etc.
 
 ## Kent
 - "true fulfillment of the self through an act of service" -- Stanley Townsend (2014 Kent)
@@ -86,6 +99,8 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - What do you do when your spouse of 40 years has dementia?
 - Humiliation is important in the play. Kent in the stock -- humiliating for Lear, too. Seeing that, Lear must act. Kent wants Lear to do something about the stocks.
 - I.i. Kent shockingly addresses Lear as thou
+- Kent is called an "ancient ruffian."
+- Stakes for Kent. If Lear sees him again, he'll be put to death. Banishment may be worse. Kent *is* service. When he plays Caius, he's doing what he *is*
 
 ## Fool
 - Fool has a very powerful position at court (with some downsides), and it's all tied to Lear. With Lear abdicating his power and mad, what life will there be for him? 
@@ -95,6 +110,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Fool has been part of the family for a long, long time. He's been Lear's best friend. He hates Goneril but he "pined" for two days after Cordelia's banishment. Maybe he knew her as a child. Maybe they had a relationship like Hamlet's with Yorrick. 
 - The Fool becomes more and more mute in his final two scenes until he has no purpose.
 - "Let go thy hold when a great wheel runs down a hill, lest it break thy neck with following it"
+- i.5. Everything stripped away. Learn and the Fool talking like two old friends, and one of them says "I hope I don't go mad."
 
 ## Oswald
 
