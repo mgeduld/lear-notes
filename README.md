@@ -16,6 +16,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - The play is "a fight towards love" -- Jonathan Kent. 
 - "Lear moves from transactional relatedness, through madness into compassionate love for the daughter who returns his devotion." -- Gail MP
 - Five characters in the play have everything taken away from them and must start over from scratch: Lear, Cordelia, Gloucester, Edgar, and Kent. (And the Fool?)
+- Lear is a play about negation. Lear gains by being stripped of everything. Anger -> grief.
 
 ## Lear
 - King vs Old Man
@@ -45,6 +46,10 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - "\[Lear's] madness is an odd mixture of delusion and piercing sanity" -- Jonathan Kent
 - The last decision Lear makes is going out into thje storm ... and then he starts to enjoy himself. He enjoys quite a lot of acts three and four.
 - A king is protected/annointed/connected-to the gods. If a king abdicates, he becomes just a man--unprotected, no longer special. Lear is tired of being king but tries to hold onto his status with the title. He neither wants to stay or move on. And he stops the kingdom from being able to, either.
+- Psychoanalyst: Lear gets off on anger in an almost sexual way. He whips himself into rages. 
+- In the Poor Tom scene: "'twas this flesh begot / Those pelican daughters." possible realization line. They are me. "The obstinacy of Cordelia is me. So is the cruelty of Goneril."
+- Lear oscilates between moments of insight, moments of concern for others, and selfish moments where he feels everything is against him.
+- 
 
 ## Sisters
 - Lear's entire plan for retirement rested on living with Cordelia. She totally shatters his future. Did the older sisters count on that, too? Now they're saddled with dad? Does Goneril believe Lear's curse--that it will be effective? Is that when she becomes his enemy?
