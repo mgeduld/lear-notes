@@ -100,6 +100,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Are Gloucester's other senses heightened after being blinded? 
 - Should he do second half with eyes closed/really-blindfolded, so he must be led by others? 
 - Gloucester doesn't want to be replaced by his sons. He seems to be ignoring Edgar and raising Edmund to be a politician while, at the same time, making sure everyone knows Edmund is a bastard, so that there's only so far Edmund can climb--certainly not to becoming Earl of Gloucester. He brings Edmund to court and then (plans to) send Edmund away again. 
+- When Regan and Cornwall come to stay with Gloucester, he is hosting a new king and queen of 1/2 of Britain. He's never had this relationship with them before. He may never have had much of a relationship with them before. Think back to his very first line of the play!
 
 ## Edgar
 - Edgar's world is then turned upside-down. What if Poor Tom is 1/2 disguise act and 1/2 panic and grief for the loss of his father.) 
