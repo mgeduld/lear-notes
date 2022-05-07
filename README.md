@@ -49,7 +49,8 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Psychoanalyst: Lear gets off on anger in an almost sexual way. He whips himself into rages. 
 - In the Poor Tom scene: "'twas this flesh begot / Those pelican daughters." possible realization line. They are me. "The obstinacy of Cordelia is me. So is the cruelty of Goneril."
 - Lear oscilates between moments of insight, moments of concern for others, and selfish moments where he feels everything is against him.
-- 
+- The play keeps taking things away from Lear and asking "How do you feel now?" Taking away and asking "How do you feel now?" Taking away and asking "How do you feel now?" Everything, even sanity. "How do you feel now?" Or "Who are you?" "Why are you now?"
+- Lear wants to figure out how to give away status and yet keep status. That's all he needs from Cordelia in I.i. I'm giving up my kingdom. Just let me be the man you love most.
 
 ## Sisters
 - Lear's entire plan for retirement rested on living with Cordelia. She totally shatters his future. Did the older sisters count on that, too? Now they're saddled with dad? Does Goneril believe Lear's curse--that it will be effective? Is that when she becomes his enemy?
