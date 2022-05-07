@@ -24,6 +24,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Unlike in the source play, which is very pious, "King Lear" has virtually no gods. They're mentioned, but if they exist, they're cruel or indifferent. There is no justice. 
 - The Cordelia story in I.i. is like the entire play in miniature. She gets stripped of everything and thereby learns whose love is false and who truly loves her. She was a princess. Now she's "unaccommodated woman," worthless to Burgundy, and yet France marries her. 
 - The play (especially Lear) has many unfinished sentences.
+- the play is a the story of a monarch gradually getting more and more isolated. Everything consipries to isolate him: his daughters, the storm, himself ...
 
 ## Lear
 - King vs Old Man
@@ -63,6 +64,9 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Simon Russel Beale believes Lear has Lewy Body dementia. Worth researching. Symptoms include "paranoia, or an extreme, irrational distrust of others," depression, hallucinations, delusions, shame, anger, wandering, and various physical symptoms, e.g shake in the hands.
 - Shame is a key to Lear.
 - Maybe "O let me not be made" should be said straight to the Fool--maybe the only person who can help him. 
+- Lear has not heard "No!" for 25 years. And/or Lear has not heard "No!" since his wife died--whenever that was. 
+- Lear's only tool for dealing with anger is violence. Much of his language is violent. -- Sam Mendes
+- 
 
 ## Sisters
 - Lear's entire plan for retirement rested on living with Cordelia. She totally shatters his future. Did the older sisters count on that, too? Now they're saddled with dad? Does Goneril believe Lear's curse--that it will be effective? Is that when she becomes his enemy?
