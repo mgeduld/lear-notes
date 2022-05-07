@@ -22,6 +22,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - In the Jacobean world, sons grow up to replace their fathers, which is what Gloucester is worried about. Daughters group up to leave their fathers, which is what Lear is worried about. Lear tries to abandon before he can get abandoned. Gloucester tries to kill before he can be replaced. Both are fighting against the inevitable. As we do. The only solution is giving up everything and giving in to love. 
 - At the end of the play, briefly, Lear gets his daughter all to himself. Her husband is away in France. They are in a cell together. 
 - Unlike in the source play, which is very pious, "King Lear" has virtually no gods. They're mentioned, but if they exist, they're cruel or indifferent. There is no justice. 
+- The Cordelia story in I.i. is like the entire play in miniature. She gets stripped of everything and thereby learns whose love is false and who truly loves her. She was a princess. Now she's "unaccommodated woman," worthless to Burgundy, and yet France marries her. 
 
 ## Lear
 - King vs Old Man
