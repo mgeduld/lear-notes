@@ -23,6 +23,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - At the end of the play, briefly, Lear gets his daughter all to himself. Her husband is away in France. They are in a cell together. 
 - Unlike in the source play, which is very pious, "King Lear" has virtually no gods. They're mentioned, but if they exist, they're cruel or indifferent. There is no justice. 
 - The Cordelia story in I.i. is like the entire play in miniature. She gets stripped of everything and thereby learns whose love is false and who truly loves her. She was a princess. Now she's "unaccommodated woman," worthless to Burgundy, and yet France marries her. 
+- The play (especially Lear) has many unfinished sentences.
 
 ## Lear
 - King vs Old Man
@@ -77,12 +78,14 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - \[Lear curses Goneril's] identity as the future mother of heirs, calling for no child to emerge from her derogate body. Her reaction suggests that she still believes that his curse will be fulfilled with the same effect as those issued when he was in charge of his kingdom. Any remaining wish for reconciliation in Goneril's heart turns from fear into malevolence as she seeks power over Lear's mind in the way he has claimed it over her reproductive life. Her father now openly be- comes her adversary and she strives to empower herself against him. R.A. Foakes, in footnotes to the Arden text, observes that Shakespeare's conception of Goneril seems to change. From this point after Lear's call for the destruction of her capacity for mothering and with it the milk of human kindness, it is difficult to find trace of human kindness in her.  -- from Gail McCracken Price's program note
 - Goneril says she loves her father "dearer than eyesight" Eyes/blindness/etc.
 - Re above, if we take seriously the idea that the king has a special relationship with the gods--if people believed that, whether or not it was true--it makes sense that Lear's curse frightens and enrages Goneril.
+- Goneril grew up with a chaotic, messy father who was always playing around, often with the fool. A sort of baby man. Her rebellion was to becoming frowing, rigid, controlled, judgmental, grown up. Regan was caught between her father's foolery and her older sister's strictness, so she became a wiley, equivocating, politician and flirt. She learned to dance between them. 
 
 ## Regan
 - Regan manipulates men to have feelings. She's flirty and sexual. 
 - Before Cordelia, Regan would have taken on the role of the child.
 - Lear says Regan has a "tender-hafted nature," which she doesn't, but maybe that's her pose, as opposed to Goneril's more steely one? "Her eyes are fierce, but thine / Do comfort and not burn" 
 - Regan gets a sexual charge from the torture and maiming of Gloucester
+- Is Regan a charming sociopath?
 
 ## Cordelia
 - Cordelia is about to be married off. She may feel the need to stand up to her father to show some independence. She may want to go into marriage as a woman of will. 
@@ -90,7 +93,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 ## Gloucester
 - The Glouchester-blinding scene is a torture scene, and Gloucester holds to give Lear time to get away!
 - Gloucester may be more shaken by Lear's actions than by anything before in his life (as must the others). Lear turns everyone's world entirely upsidedown. This may help explain Gloucester's actions--his quick mistrust of Edgar. 
-- Lear, without questioning his own rightness, imposes his will on others; Gloucester accepts the will of others , without effectively questioning their rightness -- Heilman
+- Lear, without questioning his own rightness, imposes his will on others; Gloucester accepts the will of others, without effectively questioning their rightness -- Heilman
 - If Edgar is "in the court but not interested in the court (see Edgar, below), he and Gloucester may have not had much of a relationship. So they have to forge one in the play. Perhaps they don't have a previous relationship that's fallen apart. What the force in the play is their *first* relationship. Whereas Edmund is a courtier (look at how he knows all the rules of politce address in 1.i!) Maybe Gloucester projects himself and his hopes onto Edmund. He brings Edmund to court but not Edgar.
 - When Lear abocates, Gloucester's position in court is in jeopardy. Which may be what he's worrying about in the beginning of I.i. Who is more in favor, Albany or Cornwall? 
 - First half: Gloucester's fall from grace. 
