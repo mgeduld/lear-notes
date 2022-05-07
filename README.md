@@ -17,6 +17,11 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - "Lear moves from transactional relatedness, through madness into compassionate love for the daughter who returns his devotion." -- Gail MP
 - Five characters in the play have everything taken away from them and must start over from scratch: Lear, Cordelia, Gloucester, Edgar, and Kent. (And the Fool?)
 - Lear is a play about negation. Lear gains by being stripped of everything. Anger -> grief.
+- Edgar's gets his idea for his disguise from the fact that the kingdom is full of the poor and homeless. He fits right in. Everyone in Lear is one step away from homelessness, banishment, poverty, madness ... There's a thin wall protecting them. One brick in the wall is not seeing the poor and homeless. If you can see them, you are in their world. 
+- Lear has psychological cruelty inflicted on him; Gloucester has physical cruelty inflicted on him.
+- In the Jacobean world, sons grow up to replace their fathers, which is what Gloucester is worried about. Daughters group up to leave their fathers, which is what Lear is worried about. Lear tries to abandon before he can get abandoned. Gloucester tries to kill before he can be replaced. Both are fighting against the inevitable. As we do. The only solution is giving up everything and giving in to love. 
+- At the end of the play, briefly, Lear gets his daughter all to himself. Her husband is away in France. They are in a cell together. 
+- Unlike in the source play, which is very pious, "King Lear" has virtually no gods. They're mentioned, but if they exist, they're cruel or indifferent. There is no justice. 
 
 ## Lear
 - King vs Old Man
@@ -71,6 +76,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Regan manipulates men to have feelings. She's flirty and sexual. 
 - Before Cordelia, Regan would have taken on the role of the child.
 - Lear says Regan has a "tender-hafted nature," which she doesn't, but maybe that's her pose, as opposed to Goneril's more steely one? "Her eyes are fierce, but thine / Do comfort and not burn" 
+- Regan gets a sexual charge from the torture and maiming of Gloucester
 
 ## Cordelia
 - Cordelia is about to be married off. She may feel the need to stand up to her father to show some independence. She may want to go into marriage as a woman of will. 
@@ -84,10 +90,13 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - First half: Gloucester's fall from grace. 
 - Are Gloucester's other senses heightened after being blinded? 
 - Should he do second half with eyes closed/really-blindfolded, so he must be led by others? 
+- Gloucester doesn't want to be replaced by his sons. He seems to be ignoring Edgar and raising Edmund to be a politician while, at the same time, making sure everyone knows Edmund is a bastard, so that there's only so far Edmund can climb--certainly not to becoming Earl of Gloucester. He brings Edmund to court and then (plans to) send Edmund away again. 
 
 ## Edgar
 - Edgar's world is then turned upside-down. What if Poor Tom is 1/2 disguise act and 1/2 panic and grief for the loss of his father.) 
-- You have to find things that connect the Edgar bits with the Poor Tom bits. One key: Edgar is Lear's godson. Learn named him. But he's not in the first scene. He may have little interest in politics and be naive about it. 
+- You have to find things that connect the Edgar bits with the Poor Tom bits. One key: Edgar is Lear's godson. Learn named him. But he's not in the first scene. He may have little interest in politics and be naive about it.
+- Is Edgars decision to not reveal himself to his father earlier due to ther fact that they've never had a relationship as Gloucester/Edgar? Is he simply enjoying being a good, helpful stranger to his father rather than an ignored one? Has he been unable to help his father in the past, because he has no talent for politics?
+- Or is there some anger at his father that keeps him from revealing himself earlier?
 
 ## Edmund
 - Discarding all love, Edmund is able to release himself from any internalized guilt that would place restraints on his actions and motivate reparations and responsibility" -- from Gail McCracken Price's program note (PL)
@@ -98,6 +107,9 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Edmund has a recognition in the casement/letter scene: "Hey, I'm good at this!"
 - Edmund's ambition: he's his father's son. 
 - Edmund gets himself into a mess by the end -- with the sisters, etc.
+- Gloucester doesn't want to be replaced by his sons. He seems to be ignoring Edgar and raising Edmund to be a politician while, at the same time, making sure everyone knows Edmund is a bastard, so that there's only so far Edmund can climb--certainly not to becoming Earl of Gloucester. He brings Edmund to court and then (plans to) send Edmund away again. 
+- One stake for Edmund is time. He's going to be sent away again. Whatever he does, he must do now. 
+- Edmund's dying line "Edmund was beloved" suggests that he grew up not feeling beloeved. 
 
 ## Kent
 - "true fulfillment of the self through an act of service" -- Stanley Townsend (2014 Kent)
