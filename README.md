@@ -56,6 +56,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Lear oscilates between moments of insight, moments of concern for others, and selfish moments where he feels everything is against him.
 - The play keeps taking things away from Lear and asking "How do you feel now?" Taking away and asking "How do you feel now?" Taking away and asking "How do you feel now?" Everything, even sanity. "How do you feel now?" Or "Who are you?" "Why are you now?"
 - Lear wants to figure out how to give away status and yet keep status. That's all he needs from Cordelia in I.i. I'm giving up my kingdom. Just let me be the man you love most.
+- Lear's need to be loved is so great, he divides up his kingdom and uses bits and pieces of it as prizes for anyone willing to proclaim their love for him. Lear has some sort of yawning need inside him. Some deep insecurity about being loved, maybe because--in part--he knows he's about to lose his ownly remaining daughter to marriage. 
 
 ## Sisters
 - Lear's entire plan for retirement rested on living with Cordelia. She totally shatters his future. Did the older sisters count on that, too? Now they're saddled with dad? Does Goneril believe Lear's curse--that it will be effective? Is that when she becomes his enemy?
