@@ -66,7 +66,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Maybe "O let me not be made" should be said straight to the Fool--maybe the only person who can help him. 
 - Lear has not heard "No!" for 25 years. And/or Lear has not heard "No!" since his wife died--whenever that was. 
 - Lear's only tool for dealing with anger is violence. Much of his language is violent. -- Sam Mendes
-- 
+- Many of Lear's lines are questions.
 
 ## Sisters
 - Lear's entire plan for retirement rested on living with Cordelia. She totally shatters his future. Did the older sisters count on that, too? Now they're saddled with dad? Does Goneril believe Lear's curse--that it will be effective? Is that when she becomes his enemy?
