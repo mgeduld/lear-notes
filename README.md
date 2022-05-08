@@ -25,6 +25,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - The Cordelia story in I.i. is like the entire play in miniature. She gets stripped of everything and thereby learns whose love is false and who truly loves her. She was a princess. Now she's "unaccommodated woman," worthless to Burgundy, and yet France marries her. 
 - The play (especially Lear) has many unfinished sentences.
 - the play is a the story of a monarch gradually getting more and more isolated. Everything consipries to isolate him: his daughters, the storm, himself ...
+- There's a lot of comedy in the play. Find it. Play it.
 
 ## Lear
 - King vs Old Man
