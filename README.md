@@ -26,6 +26,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - The play (especially Lear) has many unfinished sentences.
 - the play is a the story of a monarch gradually getting more and more isolated. Everything consipries to isolate him: his daughters, the storm, himself ...
 - There's a lot of comedy in the play. Find it. Play it.
+- This is a kingdom that doesn't value forgiveness. If you step out of line once, you're screwed.
 
 ## Lear
 - King vs Old Man
@@ -95,6 +96,9 @@ These are ideas from various stages of pre-production. Many of them were snatche
 ## Cordelia
 - Cordelia is about to be married off. She may feel the need to stand up to her father to show some independence. She may want to go into marriage as a woman of will. 
 
+## Gloucester family
+- Gloucester has kind things to say about Edmund's mother. He never mentions Edgar's mother.
+
 ## Gloucester
 - The Glouchester-blinding scene is a torture scene, and Gloucester holds to give Lear time to get away!
 - Gloucester may be more shaken by Lear's actions than by anything before in his life (as must the others). Lear turns everyone's world entirely upsidedown. This may help explain Gloucester's actions--his quick mistrust of Edgar. 
@@ -112,6 +116,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - You have to find things that connect the Edgar bits with the Poor Tom bits. One key: Edgar is Lear's godson. Learn named him. But he's not in the first scene. He may have little interest in politics and be naive about it.
 - Is Edgars decision to not reveal himself to his father earlier due to ther fact that they've never had a relationship as Gloucester/Edgar? Is he simply enjoying being a good, helpful stranger to his father rather than an ignored one? Has he been unable to help his father in the past, because he has no talent for politics?
 - Or is there some anger at his father that keeps him from revealing himself earlier?
+- Edgar says "Say what you feel." Lots of Poor Tom is what he feels. 
 
 ## Edmund
 - Discarding all love, Edmund is able to release himself from any internalized guilt that would place restraints on his actions and motivate reparations and responsibility" -- from Gail McCracken Price's program note (PL)
@@ -125,6 +130,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Gloucester doesn't want to be replaced by his sons. He seems to be ignoring Edgar and raising Edmund to be a politician while, at the same time, making sure everyone knows Edmund is a bastard, so that there's only so far Edmund can climb--certainly not to becoming Earl of Gloucester. He brings Edmund to court and then (plans to) send Edmund away again. 
 - One stake for Edmund is time. He's going to be sent away again. Whatever he does, he must do now. 
 - Edmund's dying line "Edmund was beloved" suggests that he grew up not feeling beloeved. 
+- Edmund does less pre-planning than one might think. He keeps getting lucky and taking advantage of it. He's a good improviser. 
 
 ## Kent
 - "true fulfillment of the self through an act of service" -- Stanley Townsend (2014 Kent)
@@ -157,6 +163,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 
 ## Sources
 
-- (PL) *Playing Lear* by Oliver Ford Davies
-- (IC) *In Conversation* Podcast. This is a podcast about the 2014 National Theatre production
-- (LD) *The Lear Diaries* by Brian Cox
+- *Playing Lear* by Oliver Ford Davies
+- *In Conversation* Podcast. This is a podcast about the 2014 National Theatre production
+- *The Lear Diaries* by Brian Cox
+- Interview with Gloucester-family actors: https://www.youtube.com/watch?v=y5AqnZBjaqk
