@@ -72,6 +72,13 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Lear has not heard "No!" for 25 years. And/or Lear has not heard "No!" since his wife died--whenever that was. 
 - Lear's only tool for dealing with anger is violence. Much of his language is violent. -- Sam Mendes
 - Many of Lear's lines are questions.
+- Lear believes his power is based on the power of the gods. ... He's a priest-like King. By the end of the story he has lost his faith and discovered his humanity. -- Ian McKellen.
+- Lear wants to enjoy the pleasures of being king while his daughters and their husbands act as functionaries. 
+- Lear is a man who hits people, a bit of a bully -- Ian McKellen 
+- Lear was a warrior, a military king -- Ian McKellen's backstory when he played the part. He points out how much Lear likes Kent, who is also very much a soldier.
+
+## Lear Family
+- Ian McKellen made up a backstory in which Laer had been married twice. His first wife, who died or maybe was put to death, gave birth to Goneril and Regan. His second wife, who Lear married when he was older, was the love of his life, and she died in childbirth. Lear raised Cordelia himself, which is why he loves her most. And when he looks into her face, he sees her mother, who would have been about the same age when she died. 
 
 ## Sisters
 - Lear's entire plan for retirement rested on living with Cordelia. She totally shatters his future. Did the older sisters count on that, too? Now they're saddled with dad? Does Goneril believe Lear's curse--that it will be effective? Is that when she becomes his enemy?
@@ -171,3 +178,4 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - *The Lear Diaries* by Brian Cox
 - Interview with Gloucester-family actors: https://www.youtube.com/watch?v=y5AqnZBjaqk
 - Interview with director Jonathan Miller: https://www.youtube.com/watch?v=PY9Hg-UofMo
+- Interview with Ian McKellen: https://www.youtube.com/watch?v=ahFtoCq6CHw
