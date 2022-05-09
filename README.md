@@ -27,6 +27,9 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - the play is a the story of a monarch gradually getting more and more isolated. Everything consipries to isolate him: his daughters, the storm, himself ...
 - There's a lot of comedy in the play. Find it. Play it.
 - This is a kingdom that doesn't value forgiveness. If you step out of line once, you're screwed.
+- It's a play about homelessness. It's about losing everything. It's about the learning that comes from loss -- Jonathan Miller
+- What are our basic needs? ("Reason not the need!")
+- If we disrupt the social order and fall outside the social order into what we call nature, man's life is worse than beast's -- Jonathan Miller. 
 
 ## Lear
 - King vs Old Man
@@ -167,3 +170,4 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - *In Conversation* Podcast. This is a podcast about the 2014 National Theatre production
 - *The Lear Diaries* by Brian Cox
 - Interview with Gloucester-family actors: https://www.youtube.com/watch?v=y5AqnZBjaqk
+- Interview with director Jonathan Miller: https://www.youtube.com/watch?v=PY9Hg-UofMo
