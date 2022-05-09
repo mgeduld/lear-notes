@@ -30,6 +30,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - It's a play about homelessness. It's about losing everything. It's about the learning that comes from loss -- Jonathan Miller
 - What are our basic needs? ("Reason not the need!")
 - If we disrupt the social order and fall outside the social order into what we call nature, man's life is worse than beast's -- Jonathan Miller. 
+- Cordelia speaks the truth to Lear and gets disowned. So Kent takes over speaking the truth and gets banished. So the Fool takes over and is able to speak the truth until Lear's wits completely turn. At which point Lear is drawn to a lie, which is Edgar's fake madness. Or, we could say, at which point Lear sees the truth: the poor wretches of his kingdom that he never noticed before. Which are like the volunerable, unloved parts of himself.
 
 ## Lear
 - King vs Old Man
@@ -105,6 +106,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 
 ## Cordelia
 - Cordelia is about to be married off. She may feel the need to stand up to her father to show some independence. She may want to go into marriage as a woman of will. 
+- Cordelia gets her stubborness from Lear. 
 
 ## Gloucester family
 - Gloucester has kind things to say about Edmund's mother. He never mentions Edgar's mother.
@@ -160,6 +162,7 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - The Fool becomes more and more mute in his final two scenes until he has no purpose.
 - "Let go thy hold when a great wheel runs down a hill, lest it break thy neck with following it"
 - i.5. Everything stripped away. Learn and the Fool talking like two old friends, and one of them says "I hope I don't go mad."
+- And your moment-to-moment intention as the Fool, is to, I think, bring him [Lear] to his senses.  And it’s out of love.  Because the Fool does love him so much; and can say anything. -- director Seana McKenna
 
 ## Oswald
 
@@ -179,3 +182,5 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Interview with Gloucester-family actors: https://www.youtube.com/watch?v=y5AqnZBjaqk
 - Interview with director Jonathan Miller: https://www.youtube.com/watch?v=PY9Hg-UofMo
 - Interview with Ian McKellen: https://www.youtube.com/watch?v=ahFtoCq6CHw
+- Interview with editor of the Cambridge edition: https://www.youtube.com/watch?v=KTBRodbVdp0
+- 
