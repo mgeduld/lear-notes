@@ -176,6 +176,10 @@ These are ideas from various stages of pre-production. Many of them were snatche
 
 ## Sources
 
+## Imagrey
+
+C. Spurgeon states that "The intensite of feeling and emotion in *King Lear* and the sharpness of its focus are revealed by the fact that in Shakespear's imagination there runs througout only one overpowering and dominating continuous image. So compelling is this that even well-marked different and subsitiary images are pressed into its service. In the play we are conscious all through of the atmosphere of buffetimng, strain and strife, and, at mpments, of bodily tension to the point of agony. \[These images are] kept constantly before us, chiefly by means of the verbs used, but also in metaphor, of a human boduy in anguished movement, tugged, wrenched, beaten, pierced, stung, scourged, dislocated, flayed, gashed, scalded, tortured, and finally broken on the rack. ... The large number of animal images ... [create the effect] that 'humanity' os 'reeling back into the beast.'"
+
 - *Playing Lear* by Oliver Ford Davies
 - *In Conversation* Podcast. This is a podcast about the 2014 National Theatre production
 - *The Lear Diaries* by Brian Cox
@@ -183,4 +187,4 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Interview with director Jonathan Miller: https://www.youtube.com/watch?v=PY9Hg-UofMo
 - Interview with Ian McKellen: https://www.youtube.com/watch?v=ahFtoCq6CHw
 - Interview with editor of the Cambridge edition: https://www.youtube.com/watch?v=KTBRodbVdp0
-- 
+- *Shakespeare's Imagery* by Caroline Spurgeon
