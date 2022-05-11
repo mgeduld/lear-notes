@@ -165,8 +165,10 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - And your moment-to-moment intention as the Fool, is to, I think, bring him [Lear] to his senses.  And it’s out of love.  Because the Fool does love him so much; and can say anything. -- director Seana McKenna
 
 ## Oswald
+- In some productions, there's a hint that Oswald and Goneril are lovers. This isn't supported (or unsupported) by the text but it's an interesting idea.
 
 ## Albany
+- Goneril accuses Albany of "milky gentleness." This may be a key. He may be a character who starts out as meek and then finds a backbone. In Declan Donnellan's production, he was a scholar who was terrified when he challenged Edmund to a duel--but challenged hinm anyway. If he's not the manliest of men, that might help explain why Goneril is attracted to Edmund. 
 
 ## Cornwall
 
