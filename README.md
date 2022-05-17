@@ -31,6 +31,8 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - What are our basic needs? ("Reason not the need!")
 - If we disrupt the social order and fall outside the social order into what we call nature, man's life is worse than beast's -- Jonathan Miller. 
 - Cordelia speaks the truth to Lear and gets disowned. So Kent takes over speaking the truth and gets banished. So the Fool takes over and is able to speak the truth until Lear's wits completely turn. At which point Lear is drawn to a lie, which is Edgar's fake madness. Or, we could say, at which point Lear sees the truth: the poor wretches of his kingdom that he never noticed before. Which are like the volunerable, unloved parts of himself.
+- For the most part, the folks assembled around Lear at the end of the play are the same folks who were with him at the beginning--even Goneril and Regan-- whose corpses are bearing witness.
+- The final scene has a crazy number of entrances and exits, fights, and so on. It helps if all of this is played very fast and frenzied so that there can be a big silent pause when Lear enters with Cordelia's body. Noise, noise, noise ... and then ... nothing. 
 
 ## Lear
 - King vs Old Man
