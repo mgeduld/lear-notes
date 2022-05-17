@@ -193,3 +193,4 @@ C. Spurgeon states that "The intensite of feeling and emotion in *King Lear* and
 - Interview with Ian McKellen: https://www.youtube.com/watch?v=ahFtoCq6CHw
 - Interview with editor of the Cambridge edition: https://www.youtube.com/watch?v=KTBRodbVdp0
 - *Shakespeare's Imagery* by Caroline Spurgeon
+- *Prefaces to Shakespeare* by Harley Granville-Barker
