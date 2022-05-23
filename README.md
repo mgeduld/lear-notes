@@ -177,6 +177,7 @@ When the rash mood is on."
 - "Let go thy hold when a great wheel runs down a hill, lest it break thy neck with following it"
 - i.5. Everything stripped away. Learn and the Fool talking like two old friends, and one of them says "I hope I don't go mad."
 - And your moment-to-moment intention as the Fool, is to, I think, bring him [Lear] to his senses.  And it’s out of love.  Because the Fool does love him so much; and can say anything. -- director Seana McKenna
+- Fool doesn't speak in II.4 (reason not the need) after Corwall, Edmund, and Regan enter. Why? Is he scared of them in a way he's not scared of Regan?
 
 ## Oswald
 - In some productions, there's a hint that Oswald and Goneril are lovers. This isn't supported (or unsupported) by the text but it's an interesting idea.
