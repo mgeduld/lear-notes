@@ -80,6 +80,8 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Lear is a man who hits people, a bit of a bully -- Ian McKellen 
 - Lear was a warrior, a military king -- Ian McKellen's backstory when he played the part. He points out how much Lear likes Kent, who is also very much a soldier.
 - Lear trades the Fool, who always speaks (roundabout) sense for Poor Tom, who speaks insanity. This externalizes Lear's mental deterioration.
+- In 2.2, Lear says to Regan: "...on my knees I beg / That you'll |vouchsafe [grant]| me |raiment [clothing]|, bed, and food." He is not just feeling hurt. He is tired and hungry, and his clothes are, perhaps, wet, cold, and dirty. 
+
 
 ## Lear Family
 - Ian McKellen made up a backstory in which Laer had been married twice. His first wife, who died or maybe was put to death, gave birth to Goneril and Regan. His second wife, who Lear married when he was older, was the love of his life, and she died in childbirth. Lear raised Cordelia himself, which is why he loves her most. And when he looks into her face, he sees her mother, who would have been about the same age when she died. 
