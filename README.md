@@ -108,6 +108,15 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Lear says Regan has a "tender-hafted nature," which she doesn't, but maybe that's her pose, as opposed to Goneril's more steely one? "Her eyes are fierce, but thine / Do comfort and not burn" 
 - Regan gets a sexual charge from the torture and maiming of Gloucester
 - Is Regan a charming sociopath?
+- This is more intersting if Regan believes Lear is actually capable of enacting a curse: 
+"KING LEAR
+You nimble lightnings, dart your blinding flames
+Into her scornful eyes! Infect her beauty,
+You |fen-suck'd fogs [fogs sucked out of marshes]|, drawn by the powerful sun,
+To |fall and blast her pride {F. fall and blister}|!
+REGAN
+O the blest gods! so will you wish on me,
+When the rash mood is on."
 
 ## Cordelia
 - Cordelia is about to be married off. She may feel the need to stand up to her father to show some independence. She may want to go into marriage as a woman of will. 
