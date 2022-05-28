@@ -82,6 +82,13 @@ These are ideas from various stages of pre-production. Many of them were snatche
 - Lear trades the Fool, who always speaks (roundabout) sense for Poor Tom, who speaks insanity. This externalizes Lear's mental deterioration.
 - In 2.2, Lear says to Regan: "...on my knees I beg / That you'll |vouchsafe [grant]| me |raiment [clothing]|, bed, and food." He is not just feeling hurt. He is tired and hungry, and his clothes are, perhaps, wet, cold, and dirty. 
 - Lear has an ongong relationship with the gods. He talks to them (pleads to them, makes demands of them, accuses them) continually, throughout the play.
+- Michael Pennington: Lear is another example of Shakespeaare pulling off the near impossible, maneuvering the audience from dislike to deep sympathy -- as he does, for instance, with Macbeth and Richard II. Invariably the trick is in the monosyllables -- 
+  You did me wrong to take me out of the grave ...
+and in the humble, quite homely tone of voice: 
+  Why this would make a man a man of salt
+  To use his eyes for garden waterpots
+  Ah, and for laying of autumn's dust.
+ As he and his syllables shrink, Lear comes into focus as someone like ourselves. An inner life we didn't expect peers out, a sense of humor, a willingness to clown to make his point, even the features not of a tyrant of but of some great big baby. This is why to present Lear (or Macbeth) as an eastern European dictator closes the play down: it becomes some kind of political anecdote. Who, after all, cares what Ceausescu or Stallin sufered? ... we must let the sunlight in wherever we can, find any moment where Lear shines, before the storm batters into him. We must account to for his extreme popularity amongst his own generation.
 
 
 ## Lear Family
@@ -211,3 +218,4 @@ Lear removes his crown and says to the Dukes "Beloved sons, ... This coronet par
 - Interview with editor of the Cambridge edition: https://www.youtube.com/watch?v=KTBRodbVdp0
 - *Shakespeare's Imagery* by Caroline Spurgeon
 - *Prefaces to Shakespeare* by Harley Granville-Barker
+- *King Lear in Brooklyn* by Michael Pennington
