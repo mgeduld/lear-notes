@@ -174,6 +174,8 @@ When the rash mood is on."
 - I.i. Kent shockingly addresses Lear as thou
 - Kent is called an "ancient ruffian."
 - Stakes for Kent. If Lear sees him again, he'll be put to death. Banishment may be worse. Kent *is* service. When he plays Caius, he's doing what he *is*
+- Kent tells us about himself (and seems to know himself): "I can keep honest counsel ... deliver a plain message bluntly ... and the best of me is diligence." The Fool, Cordelia, and Kent tell the truth. With Cordelia, it seems to be a choice--and an agonizing one for her ("What should Cordelia speak?"). It's what she thinks is morally right. The Fool doesn't have a choice ("Prithee, nuncle, keep a schoolmaster that can teach
+thy fool to lie: I would fain learn to lie") but he knows how to tell the truth indirectly. Kent doesn't have a choice and he can only be blunt. He manages to disguise himself by changing his appearance and accent, but he can't change the way he speaks--unlike Edgar.
 
 ## Fool
 - Fool has a very powerful position at court (with some downsides), and it's all tied to Lear. With Lear abdicating his power and mad, what life will there be for him? 
